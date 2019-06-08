@@ -7,3 +7,15 @@ PARAMETER RESTRICTIONS
 
 vmssName must be 3-10 characters in length. It should also be globally unique across all of AzureStack. If it isn't globally unique, it is possible that this template will still deploy properly, but we don't recommend relying on this pseudo-probabilistic behavior.
 InstanceCount must be 20 or less. VM Scale Set supports upto 100 VMs and one should add more storage accounts to support this number.
+
+
+
+<a href="https://portal.local.azurestack.external/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Frtibi%2FAzureStack-QuickStart-Templates%2Fmaster%2F101-vmss-windows-vm%2Fazuredeploy.json" target="_blank">
+    <img src="http://azuredeploy.net/deploybutton.png"/> 
+</a>
+<a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Frtibi%2FAzureStack-QuickStart-Templates%2Fmaster%2F101-vmss-windows-vm%2Fazuredeploy.json" target="_blank">
+    <img src="http://armviz.io/visualizebutton.png"/> 
+</a>
+
+
+https%3A%2F%2Fraw.githubusercontent.com%2Frtibi%2FAzureStack-QuickStart-Templates%2Fmaster%2F101-vmss-windows-vm%2Fazuredeploy.json
