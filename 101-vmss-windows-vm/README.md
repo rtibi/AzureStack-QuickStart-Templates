@@ -11,11 +11,9 @@ InstanceCount must be 20 or less. VM Scale Set supports upto 100 VMs and one sho
 
 
 <a href="https://portal.local.azurestack.external/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Frtibi%2FAzureStack-QuickStart-Templates%2Fmaster%2F101-vmss-windows-vm%2Fazuredeploy.json" target="_blank">
-    <img src="http://azuredeploy.net/deploybutton.png"/> 
+    <img src="https://github.com/rtibi/azs/blob/master/azsdeploybutton.png"/> 
 </a>
 <a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Frtibi%2FAzureStack-QuickStart-Templates%2Fmaster%2F101-vmss-windows-vm%2Fazuredeploy.json" target="_blank">
     <img src="http://armviz.io/visualizebutton.png"/> 
 </a>
 
-
-https%3A%2F%2Fraw.githubusercontent.com%2Frtibi%2FAzureStack-QuickStart-Templates%2Fmaster%2F101-vmss-windows-vm%2Fazuredeploy.json
